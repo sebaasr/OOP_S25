@@ -1,3 +1,7 @@
+Sebas Rodriguez
+GitHub: @sebaasr
+New College of Florida — Computer Science
+
 #  FootballQuizApp
 
 **FootballQuizApp** is a simple object-oriented Java Swing application where users can test their football knowledge through a fun quiz interface.
@@ -45,6 +49,5 @@ src/
     ├── hey_gil_QuestionLoader.java         # Interface for loading questions
     └── hey_gil_HardcodedFootballQuestionLoader.java  # Hardcoded implementation
 
-Sebas Rodriguez
-GitHub: @sebaasr
-New College of Florida — Computer Science
+
+
